@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  gap: 20px;
+}
+.text_t {
+  display: flex;
+  height: 40px;
+}
+.CreateElement {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.CreateElement_btn {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}

@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  gap: 20px;
+}
+.text_t {
+  display: flex;
+  height: 40px;
+  align-items: center;
+  height: 100px;
+}
+.Result_btn {
+  display: flex;
+  justify-content: center;
+}
+.Result_div {
+  margin-top: 20px;
+  background-color: aqua;
+
+  border: 3px solid black;
+}
